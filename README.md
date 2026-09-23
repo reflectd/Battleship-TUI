@@ -9,7 +9,7 @@ Portable executables can be found in the [releases](https://github.com/reflectd/
 2. Clone the repository
     ```
     git clone https://github.com/reflectd/Battleship-TUI
-    cd battlship
+    cd Battleship-TUI
     ```
 3. Build the image
     ```
@@ -26,7 +26,7 @@ Portable executables can be found in the [releases](https://github.com/reflectd/
 2. Clone the repository
     ```
     git clone https://github.com/reflectd/Battleship-TUI
-    cd battlship/src
+    cd Battleship-TUI/src
     ```
 3. Publish the app
     ```
