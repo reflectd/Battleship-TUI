@@ -8,7 +8,7 @@ Portable executables can be found in the [releases](https://github.com/reflectd/
 1. Install [Docker](https://docs.docker.com/engine/install/)
 2. Clone the repository
     ```
-    git clone https://
+    git clone https://github.com/reflectd/Battleship-TUI
     cd battlship
     ```
 3. Build the image
@@ -40,4 +40,3 @@ Portable executables can be found in the [releases](https://github.com/reflectd/
     ```
     ./Battleship
     ```
-    
